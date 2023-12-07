@@ -33,6 +33,13 @@ name = "one"
 version = "0.1.0"
 
 [[package]]
+name = "six"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
 name = "three"
 version = "0.1.0"
 
